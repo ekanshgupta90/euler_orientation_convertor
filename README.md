@@ -1,5 +1,5 @@
 # Euler Orientation Convertor
-The convertor creates a ros node. The node continuously converts odom and imu quaternion orientations to euler pitch, roll and yaw. This is based on the initial work on Thomas D. <https://denewiler.us/cv>
+The convertor creates a ros node. The node continuously converts odom and imu quaternion orientations to euler pitch, roll and yaw. This is based on the initial work by Thomas D <https://denewiler.us/cv> .
 
 ## Setup
 
