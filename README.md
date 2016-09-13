@@ -58,3 +58,8 @@ roscd euler_orientation/src
 python eiuler_orientation.py
 ```
 
+- Reading messages
+```
+rostopic echo euler_orientation
+```
+
